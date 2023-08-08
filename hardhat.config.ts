@@ -1,6 +1,5 @@
 import { HardhatUserConfig } from "hardhat/config";
 import "@nomicfoundation/hardhat-toolbox";
-import "./scripts/hash";
 import "hardhat-generate-storage-namespace";
 
 import { task } from "hardhat/config";

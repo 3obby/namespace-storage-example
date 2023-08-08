@@ -2593,10 +2593,10 @@ hardhat-generate-storage-namespace@^0.0.6:
     ethers "^6.1.0"
     hardhat-generate-storage-namespace "^0.0.5"
 
-hardhat-generate-storage-namespace@^0.0.8:
-  version "0.0.8"
-  resolved "https://registry.yarnpkg.com/hardhat-generate-storage-namespace/-/hardhat-generate-storage-namespace-0.0.8.tgz#16c92183decbe9861f62aa93ea7d215ad725e66b"
-  integrity sha512-k8iYPNdmvXvD4SE4bhXjzDkPtDPKNNMZgjtqIYIP35O5mmpAO3nIL0zAUtJ5vtAcjnkLqwhawue4hO1OKWr1qw==
+hardhat-generate-storage-namespace@^0.0.9:
+  version "0.0.9"
+  resolved "https://registry.yarnpkg.com/hardhat-generate-storage-namespace/-/hardhat-generate-storage-namespace-0.0.9.tgz#419002045e0e12bf6bec1e1f814a92d8602c4fc7"
+  integrity sha512-t2431uc9dv3zTzmjWCwvqBP5S4GI60gtnuCF0upu4vaLAWFezZUVK5j/rW1nrgVUS9ImYZ5MJ/h5cZieGiaPOw==
   dependencies:
     ethers "^6.1.0"
     hardhat-generate-storage-namespace "^0.0.6"

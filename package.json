@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "hardhat": "^2.17.1",
-    "hardhat-generate-storage-namespace": "^0.0.8"
+    "hardhat-generate-storage-namespace": "^0.0.9"
   },
   "devDependencies": {
     "@nomicfoundation/hardhat-chai-matchers": "^2.0.0",
